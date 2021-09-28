@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>995389161922-cb2pn5h86bf3js9gljn4ndu3rheci6li.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.995389161922-cb2pn5h86bf3js9gljn4ndu3rheci6li</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>995389161922-hheat6l1tgh81k5h40vd5fvqd0gh90tt.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDKI7nC4zUn3_WjZ7BhhvBhxsCyrc8zPE0</string>
+	<key>GCM_SENDER_ID</key>
+	<string>995389161922</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>org.thegrowingdeveloper.restaurant-challenge-app</string>
+	<key>PROJECT_ID</key>
+	<string>restaurant-challenge</string>
+	<key>STORAGE_BUCKET</key>
+	<string>restaurant-challenge.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:995389161922:ios:319cc2eb1812cc64d2d65b</string>
+</dict>
+</plist>

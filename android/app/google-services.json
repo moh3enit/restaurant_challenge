@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "995389161922",
+    "project_id": "restaurant-challenge",
+    "storage_bucket": "restaurant-challenge.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:995389161922:android:d04fd6388237b59fd2d65b",
+        "android_client_info": {
+          "package_name": "com.restaurant.challenge.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "995389161922-hheat6l1tgh81k5h40vd5fvqd0gh90tt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.restaurant.challenge.app",
+            "certificate_hash": "c723da87608db1e31fd625c1c407ec5cd70988ce"
+          }
+        },
+        {
+          "client_id": "995389161922-s273t27nvv07rm6ie466gi9ko64fjrfs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCnBCASg6YE-m2m8I50hWOyJBIGqdt9ie0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "995389161922-s273t27nvv07rm6ie466gi9ko64fjrfs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
